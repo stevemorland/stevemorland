@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![AWS Solutions Architect Badge](aws-certified-solutions-architect-associate.png)
 
 [AWS Solutions Architect Associate Qualification](https://www.credly.com/badges/b6b35551-138d-4628-bfbb-92b5fecd99bc/public_url)
 <!--
